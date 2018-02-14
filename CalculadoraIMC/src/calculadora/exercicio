@@ -1,0 +1,9 @@
+------Capitulo 2
+2.33 (Calculadora de índice de massa corporal) Introduzimos a calculadora
+ de índice de massa corporal (IMC) no Exercício 1.10. As fór-
+mulas para calcular o IMC são IMC= PESO/ ALTURA * ALTURA.
+
+Crie um aplicativo de calculadora IMC que leia o peso do usuário em libras e a altura em polegadas (ou, se preferir, o peso em quilogra-
+mas e a altura em metros) e, então, calcule e exiba o índice de massa corporal dele.
+
+
